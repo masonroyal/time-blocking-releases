@@ -1,7 +1,7 @@
 {
 	"id": "time-blocking",
 	"name": "Time Block Planner",
-	"version": "0.58.2",
+	"version": "0.59.0",
 	"minAppVersion": "1.8.7",
 	"description": "Newport-style time-block planning: Plan and Actual columns rendered from daily-note sections, with confirm-copy, details, and color pairing.",
 	"author": "Mason",
